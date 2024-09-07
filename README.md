@@ -1,4 +1,4 @@
-## Rainfall Prediction Using Linear Regression
+###  Rainfall Prediction Using Linear Regression:-
 
 # Project Overview:-
 This project predicts rainfall levels using historical weather data through a linear regression model. The model takes meteorological features like temperature, humidity, and wind speed to estimate the precipitation in inches. It was implemented using Python and scikit-learn.
