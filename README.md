@@ -9,12 +9,12 @@ Accurate rainfall prediction is essential for many sectors, including agricultur
 # Data:-
 The dataset consists of the following weather features:
 
-Temperature (Fahrenheit)
-Dew Point (Fahrenheit)
-Humidity (%)
-Visibility (Miles)
-Sea Level Pressure (Inches)
-Wind Speed (MPH)
+Temperature,
+Dew Point (Fahrenheit),
+Humidity (%),
+Visibility (Miles),
+Sea Level Pressure (Inches),
+Wind Speed (MPH),
 The target variable is precipitation (in inches).
 
 # Methodology:-
