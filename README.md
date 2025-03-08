@@ -21,6 +21,9 @@ The target variable is precipitation (in inches).
  Data Preprocessing: Handled any missing or null values. Normalized or scaled the data where required.Split the dataset into training and testing sets.
  Feature Selection: The following features were selected for building the model: Temperature, Dew Point, Humidity, Visibility, Sea Level Pressure,Wind Speed
 
+ ## Precipitation Trend Graph
+![Precipitation Graph]([https://i.imgur.com/example2.png](https://github.com/Ansu0612/Rainfall_Predicition/blob/main/Pre_image.png)
+
 # Modeling:- 
 Linear regression was applied to predict rainfall levels using the selected features.The model was trained using Python’s scikit-learn library.
 
