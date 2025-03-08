@@ -26,5 +26,9 @@ The target variable is precipitation (in inches).
 # Modeling:- 
 Linear regression was applied to predict rainfall levels using the selected features.The model was trained using Python’s scikit-learn library.
 
+
+![Rainfall Prediction](https://raw.githubusercontent.com/Ansu0612/Rainfall_Predicition/main/Screenshot%202025-03-08%20173316.png)
+
+
 # Results:-
 The model successfully predicts rainfall levels based on the input features. However, further analysis or improvements might be required to assess its real-world performance, such as implementing evaluation metrics or using more advanced models.
